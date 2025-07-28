@@ -5,8 +5,6 @@
 🚀 Learning to hack the cloud (ethically 😇)<br/>
 🎮 Fun fact: I treat CTFs like video games—can’t stop, won’t stop!<br/>
 
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
